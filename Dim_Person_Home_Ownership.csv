@@ -1,0 +1,5 @@
+home_ownership,home_ownership_id
+RENT,1
+OWN,2
+MORTGAGE,3
+OTHER,4
